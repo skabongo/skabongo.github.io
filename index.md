@@ -56,9 +56,8 @@ My research interests include but not limited to:
 ### News
 - [Deceber 2021] We won the [ICADL 2021 Best Paper Award
 ](/images/award/TPDL2021.png).
-- [November 2021] My wife and I moved to the US as a permanent residents.
 - [February 2021] I got married :) and happyly enjoying my married life.
-- [Nov 2020] Thrilled to announce that I joined @l3s_luh/@TIBHannover Research lab and started my Ph.D. at [Leibniz Universität Hannover (LUH)](https://www.uni-hannover.de/en/) under the supervision of [Prof. Sören Auer](https://www.tib.eu/de/forschung-entwicklung/data-science-digital-libraries/mitarbeiterinnen-und-mitarbeiter/soeren-auer).
+- [Nov 2020] Thrilled to announce that I joined @l3s_luh/@TIBHannover Research lab and started my Ph.D. at [Leibniz Universität Hannover (LUH)](https://www.uni-hannover.de/en/).
 - I Recently participate in the *Google hash code 2020*, our [team](/archive/hash_code.png) was ranked [1747/10724](https://hashcodejudge.withgoogle.com/scoreboard) on the online competition. 
 - [Jun 2020] I was accepted into the [DLRL Summer School 2020](https://dlrlsummerschool.ca/) hosted by [CIFAR](https://www.cifar.ca/) and [Mila](https://mila.quebec/en/)
 - I recently participate in the *Google hash code 2020*, our [team](/archive/hash_code.png) was ranked [1747/10724](https://hashcodejudge.withgoogle.com/scoreboard) on the online competition. 
