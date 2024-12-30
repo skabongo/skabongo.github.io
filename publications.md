@@ -107,6 +107,29 @@ Africa has over 2000 languages. Despite this, African languages account for a sm
 </td> 
 </tr>
 
+<tr height="50">
+<td style="padding-left: 1px;
+    padding-bottom: 3px;
+    vertical-align: bottom;">
+    <strong style="font-size: 25px;">2020</strong></td>
+</tr>
+
+<tr style="border-bottom:1pt solid #eee" >
+<td markdown="1">
+<img src="images/papers/aims_sa_msc.jpg" width="200" height="200" />
+
+</td>
+<td></td>
+<td markdown="1">
+<div><b>An empirical investigation into the properties of standard word embeddings</b></div>
+<div>
+The embedding of word sequences into continuous vector spaces has been one of the most important developments in Natural Language Processing in the recent past. Such embeddings have found application in areas such as Automatic Speech Recognition, Machine Translation, Sentiment Analysis and many more. This essay reviews the various mechanisms that have been proposed for the calculation of word embeddings, investigates popular toolkits and embedding matrices that are available in the public domain, and experiments with one or more selected implementations to better understand their characteristics.</i></div>
+
+|| <em class="icon-home"/> || [paper](https://library.nexteinstein.org/thesis/an-empirical-investigation-into-the-properties-of-standard-word-embeddings/) || <em class="icon-github"/> || [source code](https://github.com/Kabongosalomon/Word-Embedding-Investigation) ||
+
+</td> 
+</tr>
+
 <!-- <tr height="50">
 <td style="padding-left: 1px;
     padding-bottom: 3px;
