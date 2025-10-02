@@ -28,19 +28,18 @@ url: "http://skabongo.github.io/" # the base hostname & protocol for your site, 
 disqus:
   shortname: salomons-website
 
-google_analytics: UA-158544608-1
+# google_analytics: UA-158544608-1
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 theme: minima
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-sitemap
-  - jekyll_video_tag
 
 exclude:
   - Gemfile
@@ -128,9 +127,9 @@ JB :
   #
   
   analytics :
-    provider : google
-    google :
-        tracking_id : 'UA-44085641-1'
+    provider : vercel
+    vercel :
+        enabled : true
     # getclicky :
     #   site_id :
     # mixpanel :
@@ -181,6 +180,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-
-plugins:
-  - jekyll-sitemap

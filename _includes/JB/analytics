@@ -1,16 +1,39 @@
 {% if site.safe and site.JB.analytics.provider and page.JB.analytics != false %}
 
-{% case site.JB.analytics.provider %}
-{% when "google" %}
-  {% include JB/analytics-providers/google %}
-{% when "getclicky" %}
-  {% include JB/analytics-providers/getclicky %}
-{% when "mixpanel" %}
-  {% include JB/analytics-providers/mixpanel %}
-{% when "piwik" %}
-  {% include JB/analytics-providers/piwik %}
-{% when "custom" %}
-  {% include custom/analytics %}
-{% endcase %}
+{% if site.JB.analytics.provider.first %}
+  {% comment %} Multiple providers {% endcomment %}
+  {% for provider in site.JB.analytics.provider %}
+    {% case provider %}
+    {% when "google" %}
+      {% include JB/analytics-providers/google %}
+    {% when "vercel" %}
+      {% include JB/analytics-providers/vercel %}
+    {% when "getclicky" %}
+      {% include JB/analytics-providers/getclicky %}
+    {% when "mixpanel" %}
+      {% include JB/analytics-providers/mixpanel %}
+    {% when "piwik" %}
+      {% include JB/analytics-providers/piwik %}
+    {% when "custom" %}
+      {% include custom/analytics %}
+    {% endcase %}
+  {% endfor %}
+{% else %}
+  {% comment %} Single provider {% endcomment %}
+  {% case site.JB.analytics.provider %}
+  {% when "google" %}
+    {% include JB/analytics-providers/google %}
+  {% when "vercel" %}
+    {% include JB/analytics-providers/vercel %}
+  {% when "getclicky" %}
+    {% include JB/analytics-providers/getclicky %}
+  {% when "mixpanel" %}
+    {% include JB/analytics-providers/mixpanel %}
+  {% when "piwik" %}
+    {% include JB/analytics-providers/piwik %}
+  {% when "custom" %}
+    {% include custom/analytics %}
+  {% endcase %}
+{% endif %}
 
 {% endif %}
