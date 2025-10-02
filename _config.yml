@@ -28,7 +28,7 @@ url: "http://skabongo.github.io/" # the base hostname & protocol for your site, 
 disqus:
   shortname: salomons-website
 
-google_analytics: UA-158544608-1
+# google_analytics: UA-158544608-1
 
 # Build settings
 markdown: kramdown
@@ -128,9 +128,9 @@ JB :
   #
   
   analytics :
-    provider : google
-    google :
-        tracking_id : 'UA-44085641-1'
+    provider : vercel
+    vercel :
+        enabled : true
     # getclicky :
     #   site_id :
     # mixpanel :
