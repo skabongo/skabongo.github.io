@@ -34,13 +34,12 @@ disqus:
 markdown: kramdown
 highlighter: rouge
 theme: minima
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-sitemap
-  - jekyll_video_tag
 
 exclude:
   - Gemfile
@@ -181,6 +180,3 @@ JB :
   # and include your custom code. Your custom file must be defined at:
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
-
-plugins:
-  - jekyll-sitemap
