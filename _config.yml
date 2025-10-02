@@ -34,7 +34,7 @@ google_analytics: UA-44085641-1
 markdown: kramdown
 highlighter: rouge
 theme: minima
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-feed
