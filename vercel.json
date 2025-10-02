@@ -2,6 +2,13 @@
   "buildCommand": "bundle exec jekyll build",
   "outputDirectory": "_site",
   "installCommand": "bundle install",
-  "framework": null
+  "framework": null,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://skabongo.github.io/$1",
+      "permanent": true
+    }
+  ]
 }
 
