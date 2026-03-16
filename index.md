@@ -35,7 +35,7 @@ img {
 
 Dr. Salomon Kabongo is an AI researcher and the Lead Software Engineer at the State Farm Innovation Group. Backed by a decade of hands-on engineering experience and a strong foundation in Mathematics and Computer Science, he holds a PhD in Computer Science with a specialization in Natural Language Processing from Leibniz Universität Hannover. His core research interests include speech translation, information extraction, and the integration of knowledge graphs into deep learning architectures. In his current industry role, he leads R&D initiatives and has invented novel computer vision applications resulting in four pending patent filings.
 
-A passionate advocate for democratizing AI, Dr. Kabongo sits on the board of the Masakhane Research Foundation. In this capacity, he spearheads the Masakhane AI Hub roadmap to build digital public infrastructure for over one billion African language speakers, and oversees the execution of $9M USD in research funding to advance these global initiatives.
+A passionate advocate for democratizing AI, Dr. Kabongo sits on the board of the Masakhane Research Foundation. In this capacity, he spearheads the Masakhane AI Hub roadmap to build digital public infrastructure for over one billion African language speakers, and oversees the execution of multi-million dollar research funding to advance these global initiatives.
 
 Further information and a full list of publications can be found on his [Personal Webpage](https://skabongo.github.io) and [Google Scholar](https://scholar.google.com/citations?user=BPDma7YAAAAJ).
 ---
