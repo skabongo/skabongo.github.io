@@ -38,6 +38,7 @@ Dr. Salomon Kabongo is an AI researcher and the Lead Software Engineer at the St
 A passionate advocate for democratizing AI, Dr. Kabongo sits on the board of the Masakhane Research Foundation. In this capacity, he spearheads the Masakhane AI Hub roadmap to build digital public infrastructure for over one billion African language speakers, and oversees the execution of multi-million dollar research funding to advance these global initiatives.
 
 Further information and a full list of publications can be found on his [Personal Webpage](https://skabongo.github.io) and [Google Scholar](https://scholar.google.com/citations?user=BPDma7YAAAAJ).
+
 ---
 
 ### Research Interests
