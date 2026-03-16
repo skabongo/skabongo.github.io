@@ -31,8 +31,13 @@ img {
 
 ### About Me
 <!-- My name is Salomon Kabongo KABENAMUALU. I'm currently a Student at the [African Master in Machine Intelligence](https://aimsammi.org/) (AMMI), working toward an Msc in Machine Intelligence as sponsored by Facebook and Google. Before joining AMMI, I obtained my Msc in Mathematics from [The University of the Western Cape](https://www.uwc.ac.za/) in 2019 in affiliation with the African Institute for Mathematical Sciences ([AIMS South Africa](https://aims.ac.za/)), during which I got introduced to the field of Machine Leaning and worked on investigating propreties of words embeddings under the supervision of Prof. [Etienne Barbard](http://news.nwu.ac.za/experts/etienne-barnard). I also hold a B.S. and honors degree in Mathematics and Computer Science from [Université de Lubumbashi](http://www.unilu.ac.cd/). -->
-I am a doctoral candidate in computer science at [Leibniz Universität Hannover (LUH)](https://www.uni-hannover.de/en/) and a research assistant at the [AI Future Lab](https://leibniz-ai-lab.de/) of the L3S research center and the [Data Science and Digital Libraries research group](https://www.tib.eu/de/forschung-entwicklung/data-science-digital-libraries) at TIB. My academic background includes an MSc in Mathematics Science from the [The University of the Western Cape](https://www.uwc.ac.za/) in South Africa and an MSc from the [African Master in Machine Intelligence](https://aimsammi.org/) (AMMI) (University of Ghana) sponsored by Google and Facebook through the [African Institute for Mathematical Sciences](https://nexteinstein.org/).
+<!-- I am a doctoral candidate in computer science at [Leibniz Universität Hannover (LUH)](https://www.uni-hannover.de/en/) and a research assistant at the [AI Future Lab](https://leibniz-ai-lab.de/) of the L3S research center and the [Data Science and Digital Libraries research group](https://www.tib.eu/de/forschung-entwicklung/data-science-digital-libraries) at TIB. My academic background includes an MSc in Mathematics Science from the [The University of the Western Cape](https://www.uwc.ac.za/) in South Africa and an MSc from the [African Master in Machine Intelligence](https://aimsammi.org/) (AMMI) (University of Ghana) sponsored by Google and Facebook through the [African Institute for Mathematical Sciences](https://nexteinstein.org/). -->
 
+Dr. Salomon Kabongo is an AI researcher and the Lead Software Engineer at the State Farm Innovation Group. Backed by a decade of hands-on engineering experience and a strong foundation in Mathematics and Computer Science, he holds a PhD in Computer Science with a specialization in Natural Language Processing from Leibniz Universität Hannover. His core research interests include speech translation, information extraction, and the integration of knowledge graphs into deep learning architectures. In his current industry role, he leads R&D initiatives and has invented novel computer vision applications resulting in four pending patent filings.
+
+A passionate advocate for democratizing AI, Dr. Kabongo sits on the board of the Masakhane Research Foundation. In this capacity, he spearheads the Masakhane AI Hub roadmap to build digital public infrastructure for over one billion African language speakers, and oversees the execution of $9M USD in research funding to advance these global initiatives.
+
+Further information and a full list of publications can be found on his [Personal Webpage](https://skabongo.github.io) and [Google Scholar](https://scholar.google.com/citations?user=BPDma7YAAAAJ).
 ---
 
 ### Research Interests
@@ -54,6 +59,7 @@ My research interests include but not limited to:
 ---
 
 ### News
+- [November 2025] Travelled back to Germany to defend my PhD :).
 - [Deceber 2021] We won the [ICADL 2021 Best Paper Award
 ](/images/award/TPDL2021.png).
 - [February 2021] I got married :) and happyly enjoying my married life.
