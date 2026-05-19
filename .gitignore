@@ -1,4 +1,36 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Next.js
+.next/
+out/
+
+# Production
+build/
+dist/
+
+# Env files
+.env
+.env*.local
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# OS
 .DS_Store
-.sass-cache/
-Gemfile.lock
+Thumbs.db
+
+# Jekyll (legacy — removed)
 _site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata

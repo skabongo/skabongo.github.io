@@ -1,20 +1,52 @@
-# Personal Resume/Portfolio/Blogging Website
+# DrKabongo.com — Personal Website
 
-Forked from [Chuan Wang Website](https://github.com/wangchuan/wangchuan.github.io)
+Personal website of **Dr. Salomon Kabongo** — AI Researcher, Lead Software Engineer, and Educator.
 
-## Analytics Setup
+**Live at:** [drkabongo.com](https://drkabongo.com)  
+**Previously:** skabongo.github.io (redirects automatically)
 
-This website supports both Google Analytics and Vercel Analytics:
+---
 
-- **Google Analytics**: Configured with tracking ID `UA-44085641-1`
-- **Vercel Analytics**: Enabled for deployment on Vercel platform
+## Stack
 
-### Vercel Analytics
+- **Framework:** Next.js 15 (App Router, static export)
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS v4
+- **i18n:** next-intl — EN (default) · FR · LN (Lingala)
+- **Blog:** MDX via `next-mdx-remote/rsc`
+- **Hosting:** Vercel
+- **Analytics:** Vercel Analytics
 
-To enable Vercel Analytics:
+## i18n Routes
 
-1. Deploy your site to Vercel
-2. Enable Analytics in your Vercel dashboard
-3. The analytics script will automatically be included in your site
+| Locale | URL prefix | Language |
+|--------|-----------|----------|
+| English | `/` (default) | English |
+| French | `/fr/` | French |
+| Lingala | `/ln/` | Lingala |
 
-The analytics configuration is managed in `_config.yml` under the `JB.analytics` section.
+## Development
+
+```bash
+npm install
+npm run dev        # http://localhost:3000
+npm run build      # Production build
+```
+
+## Content
+
+- **Blog posts:** `content/blog/*.mdx`
+- **Translations:** `messages/{en,fr,ln}.json`
+- **Images:** `public/images/`
+
+## Deployment (Vercel)
+
+1. Connect this repo to Vercel at [vercel.com/new](https://vercel.com/new)
+2. Set the **Production Domain** to `drkabongo.com`
+3. Add DNS records (CNAME/A) from Vercel in your domain registrar
+
+## Redirect from skabongo.github.io
+
+The `gh-pages` branch contains a single `index.html` that redirects all traffic to `drkabongo.com`.
+
+In GitHub → **Settings → Pages**, set the source to the `gh-pages` branch to activate the redirect.
